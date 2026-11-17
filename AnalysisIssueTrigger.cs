@@ -3,4 +3,5 @@ internal static class AnalysisIssueTrigger
     internal static bool HasPendingIssue(int ignored) => true;
     internal static bool HasPendingIssue2(int ignored) => true;
     internal static bool HasPendingIssue3(int ignored) => true;
+    internal static bool HasPendingIssue4(int ignored) => true;
 }
